@@ -83,7 +83,7 @@ export OPENAI_API_KEY="your_api_key_here"   # On Windows use `set OPENAI_API_KEY
 You can clone this repository using Git:
 
 ```bash
-git clone https://github.com/koidebot/your-repository.git
+git clone https://github.com/koidebot/Synthetic-Data-Generation.git
 cd your-repository
 ```
 
