@@ -3,7 +3,7 @@
 
 ## 📌  Overview
 
-This project creates a high-quality instruction-following dataset and evaluates how well models adhere to instructions. Inspired by recent research on instruction tuning (e.g., IFEval, Tulu), this tool helps generate prompts, responses, and difficulty ratings for your own fine-tuning or evaluation pipelines.
+This project was work done for the LLM360 Group, desgined to create a high-quality instruction-following dataset and evaluates how well models adhere to instructions. Inspired by recent research on instruction tuning (e.g., IFEval, Tulu), this tool helps generate prompts, responses, and difficulty ratings for your own fine-tuning or evaluation pipelines.
 
 ## ✨Features
 
@@ -83,7 +83,7 @@ export OPENAI_API_KEY="your_api_key_here"   # On Windows use `set OPENAI_API_KEY
 You can clone this repository using Git:
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/koidebot/your-repository.git
 cd your-repository
 ```
 
