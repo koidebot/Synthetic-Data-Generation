@@ -84,7 +84,7 @@ You can clone this repository using Git:
 
 ```bash
 git clone https://github.com/koidebot/Synthetic-Data-Generation.git
-cd your-repository
+cd Synthetic-Data-Generation
 ```
 
 ## Data Generation
