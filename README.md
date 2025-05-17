@@ -1,5 +1,4 @@
 # Data Engine for Supervised Fine-Tuning of Large Language Models
-Julian Koide
 ![](assets/teaser.png)
 
 ## 📌  Overview
