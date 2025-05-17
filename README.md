@@ -3,7 +3,7 @@
 
 ## 📌  Overview
 
-This project was work done for the LLM360 Group, desgined to create a high-quality instruction-following dataset and evaluates how well models adhere to instructions. Inspired by recent research on instruction tuning (e.g., IFEval, Tulu), this tool helps generate prompts, responses, and difficulty ratings for your own fine-tuning or evaluation pipelines.
+This project was work done for the LLM360 Group (https://www.llm360.ai/), a group dedicated to developing fully open sourced language models. This project was desgined to create a high-quality instruction-following dataset and evaluates how well models adhere to instructions. Inspired by recent research on instruction tuning (e.g., IFEval, Tulu), this tool helps generate prompts, responses, and difficulty ratings for your own fine-tuning or evaluation pipelines.
 
 ## ✨Features
 
